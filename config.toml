@@ -7,34 +7,36 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Music]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [Spotify]
-apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
 
 [Twitch]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch"
 
 [Twitter]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 
 [TikTok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+uptodown-dl = "https://tiktok.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
 included-patches = "'SIM spoof'"
 
 [Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
