@@ -17,6 +17,7 @@ arch = "arm64-v8a"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+enabled = false
 
 [Spotify]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
@@ -48,3 +49,4 @@ enabled = false
 [Instagram]
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
+arch = "arm64-v8a"
