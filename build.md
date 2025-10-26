@@ -1,3 +1,5 @@
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
 Spotify: 9.0.76.1115  
 TikTok: 36.5.4  
 Twitch: 16.9.1  
